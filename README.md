@@ -1,5 +1,7 @@
 # Tiered airspace deconfliction
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24135751.svg)](https://doi.org/10.5281/zenodo.24135751)
+
 Simulation code and experimental data for the manuscript **“LLM-Based Multi-Agent
 Tiered Deconfliction for Tactical Airspace in ACO Planning”** (submitted to
 *IEEE Access*).
@@ -89,7 +91,10 @@ contains the full prompts and responses behind the worked example.
 ## Citation
 
 The manuscript is under review. If you use this code, please cite the paper once
-it is published; until then, cite this repository.
+it is published; until then, cite the archived software:
+
+> Xu, K. (2026). *Tiered airspace deconfliction: simulation code and experimental
+> data* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24135751
 
 ## License
 
